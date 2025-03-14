@@ -1,5 +1,6 @@
 🚖 ***Chicago Taxi Trips Analysis***
-📌 Overview
+
+📌 ***Overview***
 This project analyzes Chicago Taxi Trips data using Google BigQuery, SQL, and Python to uncover insights into trip trends, fare fluctuations, and demand patterns.
 
 🎯 ***Objectives***
@@ -16,9 +17,10 @@ This project analyzes Chicago Taxi Trips data using Google BigQuery, SQL, and Py
 📊 ***Key Insights***
 📈 Top 3 Companies with the Highest Trip Increase
 
-🚖 Flash Cab: +276,654 trips in Aug 2019
-🚕 Chicago Carriage Cab Corp: +131,272 trips in July 2016
-🚕 Chicago Elite Cab Corp: +24,798 trips in Feb 2013
+Flash Cab: +276,654 trips in Aug 2019
+Chicago Carriage Cab Corp: +131,272 trips in July 2016
+Chicago Elite Cab Corp: +24,798 trips in Feb 2013
+
 📉 Top 3 Companies with the Steepest Fare-Per-Mile Drop
 
 Metro Jet Taxi A: -$2035.66 in July 2022
